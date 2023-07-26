@@ -1,12 +1,18 @@
 body {
-  background-color: grey;
+  background-image: url('comics/images/background.jpg');
+ background-size: auto;
+
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: white;
 }
 
-ul{
-color : red;
+p{
+  color:white;
+}
+
+ img {
+  width: 350px;
+  height: auto;
 }
